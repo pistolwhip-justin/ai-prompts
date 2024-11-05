@@ -42,3 +42,9 @@ smart-chats/
 !.obsidian/core-plugins.json
 !.obsidian/community-plugins.json
 !.obsidian/hotkeys.json
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
