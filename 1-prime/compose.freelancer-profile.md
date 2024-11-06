@@ -5,7 +5,7 @@ Copy a Draft adhering to the Parameters, Tone Examples and Response Format outli
 - The first word in the selected content is the Type of copy needed
 	- "title" should be limited to 60 characters maximum and 45 characters minimum and are headings for other content and should be phrased as a Title
 	- "desc" should be limited to 1000 characters maximum and 900 characters minimum and are the body of a section and should be phrased as a Description
-	- "proposal" should be limited to X characters maximum and X characters minimum and are the body of a proposal and should be phrased as a Proposal
+	- "proposal" should be limited to 1500 characters maximum and 750 characters minimum and are the body of a proposal and should be phrased as a Proposal
 - Do not use the same phrases within the Tone Examples, be creative by coming up with new and similar phrases
 - Be sure to include all talking points within the selected text that follows the Type
 - Proposals should always include the talking point related to me being new to the Freelancer platform, but having 7 successful years on Upwork so my bid is negotiable because a good review will pay off more in the long run than the actual project budget
@@ -38,5 +38,7 @@ Copy Draft #1
 2. State the character limit for the above Type identified, example: "title: 45-60"
 3. Copy Draft
 4. Character count of your Copy Draft
+
+* Note, if you Character count in the above item #4 is not within the character limit identified in the above item #2 then you should not print the draft, the Response is considered a fail and should be repeated until #4 is within the limits outlined in #2
 
 Repeat for a total of 3 different versions for me to choose between. If I desire for changes I will provide the Copy Draft # and the desired changes.
