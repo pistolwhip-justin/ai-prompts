@@ -4,7 +4,7 @@ Copy a Draft adhering to the Parameters, Tone Examples and Response Format outli
 ## Parameters
 - The first word in the selected content is the Type of copy needed
 	- "title" should be limited to 60 characters maximum and 45 characters minimum and are headings for other content and should be phrased as a Title
-	- "desc" should be limited to 1000 characters maximum and 45 characters minimum and are the body of a section and should be phrased as a Description
+	- "desc" should be limited to 1000 characters maximum and 900 characters minimum and are the body of a section and should be phrased as a Description
 	- "proposal" should be limited to X characters maximum and X characters minimum and are the body of a proposal and should be phrased as a Proposal
 - Do not use the same phrases within the Tone Examples, be creative by coming up with new and similar phrases
 - Be sure to include all talking points within the selected text that follows the Type
@@ -34,8 +34,9 @@ Copy a Draft adhering to the Parameters, Tone Examples and Response Format outli
 Your response should be in the following outlined format:
 
 Copy Draft #1
-1. State the Type and the character limit, example: "title: 45-60"
-2. Copy Draft
-3. Character count of your Copy Draft
+1. Repeat the fist word to the selected content so it is clear you understand the Type requested in this instance
+2. State the character limit for the above Type identified, example: "title: 45-60"
+3. Copy Draft
+4. Character count of your Copy Draft
 
 Repeat for a total of 3 different versions for me to choose between. If I desire for changes I will provide the Copy Draft # and the desired changes.
